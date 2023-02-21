@@ -1,0 +1,12 @@
+In today’s world, one of the major problems commuters face every day is mismanaged traffic signals. 
+With the increase in the standard of living, the vehicular density has also increased. 
+Increased vehicular density of road is accompanied by a number of problems. Breaking traffic rules which lead to road accidents are a few of them. Here is a scope for trying to reduce a few of them. 
+For example, in the current system, even if there are no vehicles on one side of the road, that signal is scheduled uniformly as others. This causes frustration to the driver, leading to serious problems such as road rage and causes people to ”jump” signals. Here, we have a solution to the problem by dynamically scheduling the traffic signal lights for each lane based on the vehicular density on that particular the lane.
+Components used
+Arduino UNO microcontroller
+Ultra sonic sensors
+Infrarred systems
+camera 
+other sensors etc..
+
+
